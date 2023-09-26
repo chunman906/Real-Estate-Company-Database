@@ -5,6 +5,9 @@ Welcome to the MyHomes Real Estate Database. This repository contains the design
 ## :clipboard: Overview
 
 The database adopts a normalization approach and contains scripts that create tables designed to address questions related to representatives, supervisors, properties, customers, covered areas, and more.
+<p float="left">
+  <img src="./database_design.drawio.png" width="400" />
+</p>
 
 ## :sparkles: Features
 
